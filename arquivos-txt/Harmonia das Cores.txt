@@ -1,0 +1,43 @@
+Visitar 
+Site Adobe Color
+Paletton.com
+Coolors.co
+
+Circulo Cromatico
+
+Cores Primarias
+-> Amarelo/ Vermelho/ Azul
+
+Cores Secundarias
+-> Verde/ Laranja/ Violeta
+
+Cores Terciarias( Inicia com as Cores Primarias)
+-> Amarelo-Esverdeado
+-> Amarelo-Alaranjado
+-> Vermelho-Alaranjado
+->Vermelho-Arroxeado
+->Azul-Arroxeado
+->Azul-Esverdeado
+
+Cores Complementares 
+-> Contraste entre Sí
+(trçar uma Linha Reta)
+
+Cores Analogas
+-> Não tem Contraste
+(São Vizinhas)
+
+Cores Analogas Complementares
+(Pegar Duas Cores Vizinhas e uma Contraste)
+
+Cores Analogas Relacional
+
+Cores Intercaladas
+-> Triadicas
+(Formar um Triangulo)
+
+-> Em Quadrado
+
+->Tetradicas
+
+->Monocromia

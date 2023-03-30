@@ -1,0 +1,3 @@
+Shorthand - Background
+
+color > image > position > repeat > [size] > attachment

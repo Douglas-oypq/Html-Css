@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(17, 192, 90);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+h1 {
+    color: rgb(0, 255, 242);
+    background-color: rgb(23, 10, 207);
+    text-align: center;
+}
+
+h2 {
+    color: rgba(132, 8, 163, 0.63);
+}
+
+p {
+    text-align: justify;
+}
